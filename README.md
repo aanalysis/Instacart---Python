@@ -12,7 +12,6 @@ As a student of the Data Analytics program at CareerFoundry, my task was
 + [Order product prior data set](https://s3.amazonaws.com/coach-courses-us/public/courses/data-immersion/A4/A4_Data_Assets/order_products_prior.zip) 
 
 #### Tools:
-- Python
 * Libraries: pandas, NumPy, os, matplotlib, scipy, and seaborn.
 + Excel
 

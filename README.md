@@ -13,6 +13,6 @@ Data sets provided through the exercises:
 * Departments data set
 + Order product prior data set
 #### Tools:
-* Libraries: pandas, NumPy, os, matplotlib, scipy, and seaborn.
+* Python with libraries: pandas, NumPy, os, matplotlib, scipy, and seaborn.
 + Excel
 
